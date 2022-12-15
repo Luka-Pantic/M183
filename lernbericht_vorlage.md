@@ -18,18 +18,19 @@ Ein solcher Link und Mail können zum Beispiel so aussehen:
 ![Screenshot 2022-12-15 102332](https://user-images.githubusercontent.com/69889967/207822006-09851e90-81fb-4112-a15e-e8b8ace29a48.png)
 
 
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
 * Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Bild: grobe "Struktur" einer Phishing Mail
+Video: Demonstration
+
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Gut: Was bei diesem Auftrag gut lief, oder was mir zumindest viel Freude bereitet hat, war das Schreiben der Phishing Mail.
 
-👎 und etwas, was nicht gut lief.
+Schlecht: Manchmal hatte ich das Problem, dass der Browser die Adresse nicht finden konnte und erhielt dann eine "Error 404" Fehlermeldung, Neustarten hat da meistens geholfen.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+In diesem Modul hatte ich teilweise ein Paar "halbfertige" Arbeitsaufträge liegen gelasssen, beim nächsten Mal sollte ich darauf achten, dass wenn ich nicht in der Schule mit diesen fertig werden, sie vielleicht noch eventuell Zuhause vollenden sollte.
+
