@@ -18,7 +18,7 @@ Ein solcher Link und Mail können zum Beispiel so aussehen:
 ![Screenshot 2022-12-15 102332](https://user-images.githubusercontent.com/69889967/207822006-09851e90-81fb-4112-a15e-e8b8ace29a48.png)
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=nefWV0PMeh4)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nefWV0PMeh4/0.jpg)](https://www.youtube.com/watch?v=nefWV0PMeh4)
 
 ## Verifikation
 
