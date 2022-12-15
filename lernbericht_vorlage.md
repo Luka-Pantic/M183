@@ -1,19 +1,22 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+Luka Pantic
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+In diesem Modul haben wir das Thema "Applikationssicherheit" behandelt, darunter zu verstehen sind Dinge wie: verschiedene Angriffsarten (zum Beispiel, Cross Site Scripting, Interpreter Injections oder Cross Site Request Forgery), potenzielle Sicherheitslücken und wie man solchen Angriffen zuvorkommen kann.
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+In diesem Modul habe ich gelernt, wie man einen "Phishing-Link" mittels einer "Session Fixation" erstellen kann.
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
+Bei der Session Fixation geht es darum, dem "Opfer" seine eigene Session-ID unterzujubeln, damit sich dieser Benutzer quasi für den Benutzer anmeldet. Dies geht, da JSF bereits beim "Eingloggbildschirm" eine SessionID erstellt, welche man sich einfach über die "Entwicklertools" des Browsers raussuchen kann. Diese SessionID kopiert der "Angreifer" dann schliesslich in den Link der Anmeldeseite und schickt diesen dem Opfer per E-Mail zu, meistens in Form einer Phishing Mail.
 
-* Eine textliche Beschreibung
+Ein solcher Link und Mail können zum Beispiel so aussehen:
+
+![Screenshot 2022-12-15 102154](https://user-images.githubusercontent.com/69889967/207821654-cf86661e-99d0-4497-b7a9-b0742c590a1d.png)
+
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 * Ein gut dokumentierter Code-Fetzen
 * Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
