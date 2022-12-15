@@ -15,7 +15,8 @@ Bei der Session Fixation geht es darum, dem "Opfer" seine eigene Session-ID unte
 
 Ein solcher Link und Mail können zum Beispiel so aussehen:
 
-![Screenshot 2022-12-15 102154](https://user-images.githubusercontent.com/69889967/207821654-cf86661e-99d0-4497-b7a9-b0742c590a1d.png)
+![Screenshot 2022-12-15 102332](https://user-images.githubusercontent.com/69889967/207822006-09851e90-81fb-4112-a15e-e8b8ace29a48.png)
+
 
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 * Ein gut dokumentierter Code-Fetzen
